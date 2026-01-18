@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
 torch
 torchvision
@@ -7,3 +7,4 @@ torchvision
 # untuk UNet & FPN (Segmentation Models PyTorch)
 segmentation-models-pytorch
 timm
+
